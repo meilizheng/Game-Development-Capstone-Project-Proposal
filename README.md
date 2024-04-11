@@ -33,7 +33,7 @@
   - What skills do you plan to develop with this project that will be useful for your job search?
     - This project is a great chance for me to learn new skills that employers are looking for. I want to get better at JavaScript, which is super important for making websites and games. I'll also learn about other parts of game-making, like using Node.js to organize code, putting stuff up on GitHub to share with others, and mastering things like making things move smoothly, creating cool-looking models and textures, and making special effects. These skills will make me more valuable to employers in the future.
   - What is the industry like for this kind of application (such as mobile application, web development, data analysis, etc.)?
-    -There are lots of ways to share this kind of project with people. It could be a game people play on their phones, or something they can access on the internet. Both have their pros and cons. Phone apps can be really cool because they work well with the features of the phone, but making something for the web means more people can use it on different devices. 
+    - There are lots of ways to share this kind of project with people. It could be a game people play on their phones, or something they can access on the internet. Both have their pros and cons. Phone apps can be really cool because they work well with the features of the phone, but making something for the web means more people can use it on different devices. 
     
 ## Process Overview:
 - Mention tools and artifacts used, such as version control and task managers.
