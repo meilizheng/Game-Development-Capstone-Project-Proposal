@@ -1,6 +1,3 @@
-# Game-Development-Capstone-Project-Proposal
-Game Development / Capstone Project Proposal
-
 # Game Development / Capstone Project Proposal
 - **Name**: Meili Zheng
 - **Year and Qtr**: 6th quarter
