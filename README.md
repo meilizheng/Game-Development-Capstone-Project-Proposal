@@ -5,22 +5,35 @@
 ## Introduction:
 - Provide context and motivations of the project.
   - Why did you decide to work on this project?
-    - Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
+    - I decided to start this project because I wanted to try something new and fun. Originally, I were thinking of making an app for booking or organizing things, but since I joined a game class, That got me really excited about creating my own game! Learning how to make games seemed like a cool challenge, and I thought it would be a great way for me to learn in class.
   - What are your goals for this project?
-    - My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
+    - My main goal for this project is to understand how games work. I want to learn all about how to create the different parts of a game, like how the characters move and how the game keeps track of points. But I don't just want to learn for the sake of it, I also want to make something cool that kids will enjoy playing. That's why I'm planning to make a game that helps kids learn while they play, like maybe a math game or something similar.
   - What do you project your final project will look like?
-    - A simple game for kids that will help them learn thing like math during they play the game.
+    - In the end, I hope to make a simple game that kids will love. It'll have easy controls and bright colors to catch their attention. And while they're having fun playing, they'll also be learning new things. I want my game to be something kids can enjoy over and over again.
   - What are the specific features you deem required to implement for this Project?
+    - To make sure my game turns out the way I want, I've got some important things I need to include:
+      - Easy controls: I want kids to be able to play without any trouble.
+      - Learning stuff: My game will have math problems or puzzles to help kids learn while they play.
+      - Cool pictures: I'm going to make the game look really nice with lots of bright colors and fun characters.
+      - Feedback: The game will let kids know when they've done something right, so they feel good about learning.
+      - Thinking ahead: I'm planning my game so it can grow in the future. That means I can add more cool stuff later on.
+    
   - What are features that you would like to implement if given the time?
-    - sound and
+    - If I have enough time, I'd love to add even more fun things to my game:
+      - Sounds and music: I'll add cool sounds and music to make the game even more fun.
+      - Making it special: Kids will be able to change things in the game to make it just right for them.
+      - Playing together: I might add ways for kids to play with their friends or family.
+      - Learning more: I could add even more learning stuff to the game, covering different topics or levels.
+      - Helping everyone play: I'll think about making my game easy for everyone to enjoy, no matter what they're good at or how they like to play.
+        
     
 - (Pre-project)
   - How difficult do you think this project will be?
-    - For right now, since I don't have too much knowleg about the game, I can just think the easy part, like maybe a stuff(person or animal move) then add some choice let the user to click or choose, if correct add some points to the user.
+    - Starting out, I know there will be some challenges, especially because I'm still learning about making games. At first, I'll keep things simple, like making characters or things move around, and letting players click on stuff. As I learn more, I'll take on bigger tasks in game-making.
   - What skills do you plan to develop with this project that will be useful for your job search?
-    - Increase knoweldge in javascript, game development, package management with node, continual depoyment with github, animation, modeling, textures, shaders, etc...
+    - This project is a great chance for me to learn new skills that employers are looking for. I want to get better at JavaScript, which is super important for making websites and games. I'll also learn about other parts of game-making, like using Node.js to organize code, putting stuff up on GitHub to share with others, and mastering things like making things move smoothly, creating cool-looking models and textures, and making special effects. These skills will make me more valuable to employers in the future.
   - What is the industry like for this kind of application (such as mobile application, web development, data analysis, etc.)?
-    - Maybe a app or a web.
+    -There are lots of ways to share this kind of project with people. It could be a game people play on their phones, or something they can access on the internet. Both have their pros and cons. Phone apps can be really cool because they work well with the features of the phone, but making something for the web means more people can use it on different devices. 
     
 ## Process Overview:
 - Mention tools and artifacts used, such as version control and task managers.
