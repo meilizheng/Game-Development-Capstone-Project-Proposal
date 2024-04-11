@@ -4,8 +4,8 @@
 - **Additional Teammate (If working in team)**: 
 ## Introduction:
 - Provide context and motivations of the project.
-- Why did you decide to work on this project?
-- Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
+  - Why did you decide to work on this project?
+  **Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
 - What are your goals for this project?
 - My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
 - What do you project your final project will look like?
