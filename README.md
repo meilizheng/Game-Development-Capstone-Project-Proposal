@@ -5,38 +5,34 @@
 ## Introduction:
 - Provide context and motivations of the project.
   - Why did you decide to work on this project?
-
     Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
-- What are your goals for this project?
-- My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
-- What do you project your final project will look like?
-- I simple game for kids that will help them learn thing like math during they play the game.
-- What are the specific features you deem required to implement for this
-- 
-project?
-- What are features that you would like to implement if given the time?
-- sound and 
+  - What are your goals for this project?
+    My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
+  - What do you project your final project will look like?
+    A simple game for kids that will help them learn thing like math during they play the game.
+  - What are the specific features you deem required to implement for this Project?
+  - What are features that you would like to implement if given the time?
+    sound and
+    
 - (Pre-project)
-- How difficult do you think this project will be?
-- For right now, since I don't have too much knowleg about the game, I can just think the easy part, like maybe a stuff(person or animal move) then add some choice let the user to click or choose, if correct add some points to the user.
-- What skills do you plan to develop with this project that will be useful for
-your job search?
-Increase knoweldge in javascript, game development, package management with node, continual depoyment with github, animation, modeling, textures, shaders, etc...
-- What is the industry like for this kind of application (such as mobile
-application, web development, data analysis, etc.)?
-  Maybe a app or a web.
+  - How difficult do you think this project will be?
+    For right now, since I don't have too much knowleg about the game, I can just think the easy part, like maybe a stuff(person or animal move) then add some choice let the user to click or choose, if correct add some points to the user.
+  - What skills do you plan to develop with this project that will be useful for your job search?
+    Increase knoweldge in javascript, game development, package management with node, continual depoyment with github, animation, modeling, textures, shaders, etc...
+  - What is the industry like for this kind of application (such as mobile application, web development, data analysis, etc.)?
+    Maybe a app or a web.
+    
 ## Process Overview:
 - Mention tools and artifacts used, such as version control and task managers.
 - Languages
-- Javascript
-Possibly Python
+  Javascript, Possibly Python
 - Frameworks
 - Libraries
 - Version Control
-- GitHub
+  GitHub
 - Systems you will deploy on (VR, Web, Mobile (Specifically Mac or Windows),
 Cross-Platform, etc.)
-I will deploy it on Windows.
+  I will deploy it on Windows.
 - Resources that you have found that you will use ( This isn't set in stone )
 - Websites
 - YouTube Videos
@@ -79,21 +75,6 @@ etc...
 
 Week 11 : Demonstration
 
-- Provide a timeline overview, possibly as a Gantt chart or sequential list of
-milestones.
-- Map out your idea for weekly project on your project.
-- This is just a rough idea of how you plan to implement each feature
-over the quarter.
-- This isn't set in stone. You will find out quickly somethings can be
-done in 1 day, and others take weeks. But this is a plan for you to try to follow.
-- Your will update your weekly progress about this in teams.
-- Describe key phases and interesting details about each phase.
-- Examples for this are (Your big features)
-- Combining front end and back end
-- Implementing Database
-- Learning how to deploy your project online
-- Implementing your control system in your game
-- etc.
 ## Future Work:
 - Discuss potential new features or improvements for future versions.
 - What are features that you would like to implement, but are beyond the 3-
