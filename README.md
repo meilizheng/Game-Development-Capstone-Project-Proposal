@@ -50,11 +50,11 @@ this class.
 - Note: I will reach out to you if your project needs to be expanded upon. This
 is meant to be a showcase of skills and something to demonstrate at an interview.
 ## Project Timeline:
-Week 0 : Already ahead by working through the Three.js journey (TJJ) tutorial. Already done with the basics on onto the advanced course
-Week 1 : Map out the goals that I want to achieve during the project and how I want my students to benefit from my knowledge by creating interactive lessons for them. Most intimidating week.
-Week 2 : Work thru Chapter 2 of the TJJ course. This should conclude with an incresed knowledge of the lighting system, shadows, particles, and animated scroll ( this really excites me ). I will demonstrate knowledge in this by creating 1 to two modules for the game dev class.
+- Week 0 : Already ahead by working through the Three.js journey (TJJ) tutorial. Already done with the basics on onto the advanced course
+- Week 1 : Map out the goals that I want to achieve during the project and how I want my students to benefit from my knowledge by creating interactive lessons for them. Most intimidating week.
+- Week 2 : Work thru Chapter 2 of the TJJ course. This should conclude with an incresed knowledge of the lighting system, shadows, particles, and animated scroll ( this really excites me ). I will demonstrate knowledge in this by creating 1 to two modules for the game dev class.
 Goal: Module to introduce basic geometry and models
-Week 3 : Continue TJJ. Advanced concepts. Implement concepts.
+- Week 3 : Continue TJJ. Advanced concepts. Implement concepts.
 Import 3d models ( already done)
 Raycasting interactions
 Physics
@@ -63,16 +63,16 @@ Realistic Rendering ( Unsure for a game dev module )
 Learning how to structure larger projects
 This would be a huge push into making interactive apps.
 Goal : Create a module that introduces game controls
-Week 4 : Continue TJJ.
+- Week 4 : Continue TJJ.
 Goal : Have a physics based lesson online to introduce rigid body concepts
-Week 5 :
+- Week 5 :
 Start TJJ Shaders chapter, longest chapter. Get though 1 /3 rd
 Rest Week for Class
 Goal: Introduce materials ( textures, maps, etc... )
-Week 6 :
+- Week 6 :
 Continue TJJ Shaders. Get though 1 /3 rd
 etc...
-Week 11 : Demonstration
+- Week 11 : Demonstration
 
 ## Future Work:
 - Discuss potential new features or improvements for future versions.
