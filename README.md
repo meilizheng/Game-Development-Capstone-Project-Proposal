@@ -5,39 +5,39 @@
 ## Introduction:
 - Provide context and motivations of the project.
   - Why did you decide to work on this project?
-    Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
+    - Before I was thinking to create a create a booking app or dashboard, but since this quarter I chose the game class, so I want to use the knowleg that I will learn from class to create a game, the reason why I change my mind is because game is a new field for me and I want to learn more and improve my skill.
   - What are your goals for this project?
-    My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
+    - My gola for this project is to learn the logic that is behind the game, and try to build my own game, maybe for my kids.:)
   - What do you project your final project will look like?
-    A simple game for kids that will help them learn thing like math during they play the game.
+    - A simple game for kids that will help them learn thing like math during they play the game.
   - What are the specific features you deem required to implement for this Project?
   - What are features that you would like to implement if given the time?
-    sound and
+    - sound and
     
 - (Pre-project)
   - How difficult do you think this project will be?
-    For right now, since I don't have too much knowleg about the game, I can just think the easy part, like maybe a stuff(person or animal move) then add some choice let the user to click or choose, if correct add some points to the user.
+    - For right now, since I don't have too much knowleg about the game, I can just think the easy part, like maybe a stuff(person or animal move) then add some choice let the user to click or choose, if correct add some points to the user.
   - What skills do you plan to develop with this project that will be useful for your job search?
-    Increase knoweldge in javascript, game development, package management with node, continual depoyment with github, animation, modeling, textures, shaders, etc...
+    - Increase knoweldge in javascript, game development, package management with node, continual depoyment with github, animation, modeling, textures, shaders, etc...
   - What is the industry like for this kind of application (such as mobile application, web development, data analysis, etc.)?
-    Maybe a app or a web.
+    - Maybe a app or a web.
     
 ## Process Overview:
 - Mention tools and artifacts used, such as version control and task managers.
 - Languages
-  Javascript, Possibly Python
+  - Javascript, Possibly Python
 - Frameworks
 - Libraries
 - Version Control
-  GitHub
+  - GitHub
 - Systems you will deploy on (VR, Web, Mobile (Specifically Mac or Windows),
 Cross-Platform, etc.)
-  I will deploy it on Windows.
+  - I will deploy it on Windows.
 - Resources that you have found that you will use ( This isn't set in stone )
-- Websites
-- YouTube Videos
+  - Websites
+  - YouTube Videos
 - Explain team roles and procedures.
-- If working with someone else, what are the roles you both plan to have?
+
 - What features and functions will you both plan to work on?
 - This should be an equal distribution of responsibility. I will be grading
 per individual and if someone is pulling the weight of the other, I will grade
@@ -72,7 +72,6 @@ Goal: Introduce materials ( textures, maps, etc... )
 Week 6 :
 Continue TJJ Shaders. Get though 1 /3 rd
 etc...
-
 Week 11 : Demonstration
 
 ## Future Work:
