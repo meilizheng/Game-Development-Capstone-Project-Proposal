@@ -37,58 +37,118 @@
     
 ## Process Overview:
 - Mention tools and artifacts used, such as version control and task managers.
+  - In undertaking this project, I've adopted a systematic approach to ensure its success. Utilizing various tools and artifacts facilitates organization, collaboration, and progress tracking throughout the development process. Here's an overview of the key components:
+
+    - Version Control:
+      - Version control is essential for managing changes to the project's codebase and assets. By leveraging version control systems like Git, I can track modifications, collaborate with others seamlessly, and revert to previous versions if needed. GitHub serves as the primary platform for hosting the repository, enabling easy sharing and collaboration with peers and potential contributors.
+
+    - Documentation:
+      - Documentation plays a pivotal role in ensuring clarity, consistency, and maintainability throughout the project lifecycle. I utilize tools like Markdown for writing project documentation, README files, and developer guides. Clear and comprehensive documentation not only aids in understanding the project's architecture and implementation but also facilitates onboarding for collaborators and future maintenance.
+
+    - Feedback and Iteration:
+      - Feedback loops are integral to refining and improving the project iteratively. I actively seek feedback from peers, mentors, and potential users through avenues such as user testing sessions, surveys, and code reviews. By incorporating feedback into the development process, I can address issues, implement enhancements, and ensure that the final product aligns with user expectations and requirements.
+     
 - Languages
-  - Javascript, Possibly Python
+  - For this project, I focus primarily on JavaScript as the main programming language due to its suitability for game development, especially for web-based games. However, considering the versatility and capabilities of other languages, I also explore the potential integration of C#.
+  - C# is renowned for its robustness and performance, particularly in the realm of game development with frameworks like Unity. Unity provides powerful tools and a rich ecosystem for creating immersive and interactive gaming experiences across multiple platforms. By incorporating C# alongside JavaScript, I can explore additional functionalities and leverage the advanced features of Unity for more complex game mechanics, enhanced graphics, and seamless cross-platform deployment. This combination allows for greater flexibility and innovation in designing and implementing various aspects of the game.
+
 - Frameworks
+  - In this project, I harness the capabilities of various frameworks to streamline development and enhance the overall gaming experience. These frameworks provide essential tools, libraries, and structures to expedite the creation process and ensure optimal performance.
+
+  - Phaser:
+Phaser stands out as a prominent choice for developing HTML5 games. With its intuitive API, extensive documentation, and robust community support, Phaser empowers developers to build immersive, cross-platform games efficiently. Its features, including sprite animations, physics engines, and input handling, facilitate the creation of engaging gameplay experiences for a wide audience.
+
+  - Unity:
+Unity remains a cornerstone in game development, offering a comprehensive framework for building interactive experiences across various platforms. With its powerful rendering engine, physics system, and asset pipeline, Unity simplifies the creation of high-quality 2D and 3D games. Additionally, Unity's ecosystem provides access to a vast library of assets, plugins, and services, empowering developers to realize their creative visions with ease.
+
 - Libraries
+  - In this project, I make strategic use of libraries to enhance functionality, streamline development, and leverage existing solutions to common challenges in game development. These libraries provide pre-built components, utilities, and tools that expedite the implementation of various features and mechanics.
+
+  - React:
+React.js, renowned for its declarative and component-based architecture, serves as a foundational library for building user interfaces. Integrating React into the project facilitates the creation of dynamic and responsive UI elements, enabling seamless interaction with the game environment. With features like virtual DOM and state management, React optimizes performance and simplifies the management of complex UI components.
+
+  - Redux:
+Redux complements React by providing a predictable state container for managing application data in a centralized manner. By adopting Redux, I establish a robust architecture for managing game state, handling user interactions, and orchestrating data flow throughout the application. Redux's immutable state management and middleware ecosystem ensure scalability, maintainability, and testability, enabling efficient development and debugging workflows.
+
 - Version Control
-  - GitHub
+  - In this project, I prioritize effective version control to manage changes, collaborate with team members, and maintain the integrity of the codebase. Leveraging the industry-standard platform GitHub, I ensure seamless integration of version control into the development workflow.
+
+  - GitHub:
+    - GitHub serves as the cornerstone of version control, providing a centralized repository for storing, sharing, and tracking project files. With its intuitive interface and robust features, GitHub facilitates collaboration and transparency among team members. Leveraging Git, GitHub enables me to create branches, commit changes, and merge code seamlessly, ensuring a streamlined and organized development process.
+
 - Systems you will deploy on (VR, Web, Mobile (Specifically Mac or Windows),
 Cross-Platform, etc.)
-  - I will deploy it on Windows.
-- Resources that you have found that you will use ( This isn't set in stone )
-  - Websites
-  - YouTube Videos
-- Explain team roles and procedures.
+  - In planning the deployment of the project, I consider various platforms to ensure accessibility and reach for a wide audience. Here's an overview of the deployment systems:
 
-- What features and functions will you both plan to work on?
-- This should be an equal distribution of responsibility. I will be grading
-per individual and if someone is pulling the weight of the other, I will grade
-accordingly. Also, reach out to me if this appears to be an issue.
+    - Web:
+      - Deploying the game as a web application offers broad accessibility across devices and operating systems. By leveraging web technologies such as HTML5, CSS, and JavaScript, players can access the game seamlessly through web browsers on desktops, laptops, tablets, and smartphones. Web deployment ensures easy distribution, instant access, and cross-platform compatibility, allowing players to enjoy the game without the need for additional installations or downloads.
+
+    - Windows:
+      - Deploying the game on the Windows platform caters to a large user base of PC gamers. By optimizing the game for Windows environments, I ensure smooth performance, compatibility, and user experience on desktop and laptop computers running Windows operating systems. Leveraging development tools and frameworks such as Unity, I target the Windows platform to deliver a polished and immersive gaming experience tailored to PC gamers' preferences and hardware capabilities.
+- Resources that you have found that you will use ( This isn't set in stone )
+  - As I embark on this project, I recognize the importance of tapping into valuable resources to enhance my understanding, skills, and creativity. While the selection of resources may evolve throughout the development process, I initially plan to leverage the following:
+  - Websites:
+    - MDN Web Docs: MDN provides comprehensive documentation, tutorials, and guides for web technologies, including HTML5, CSS, and JavaScript. It serves as a reliable reference for understanding concepts, implementing best practices, and troubleshooting issues in web development.
+    - Stack Overflow: Stack Overflow offers a vibrant community of developers sharing knowledge, solutions, and insights on various programming topics, including game development. Leveraging Stack Overflow, I can seek advice, troubleshoot challenges, and learn from others' experiences in game development.
+  - YouTube Videos:
+    - Brackeys: Brackeys is a popular YouTube channel offering tutorials, tips, and insights on game development using Unity. From beginner-friendly tutorials to advanced techniques, Brackeys provides valuable resources for learning Unity development, game design principles, and optimization strategies.
+    - The Net Ninja: The Net Ninja offers a diverse range of tutorials on web development, JavaScript, and frameworks like React and Node.js. With clear explanations and hands-on examples, The Net Ninja provides accessible resources for mastering web technologies and building interactive web applications.
+    
 ## Requirements:
 - What are the features that you plan to implement?
-- Note: Reach out to me if you need help defining what kind of features you
-would like to implement, how to achieve them, and if they are robust enough for
-this class.
-- Note: I will reach out to you if your project needs to be expanded upon. This
-is meant to be a showcase of skills and something to demonstrate at an interview.
+  - Visual and Audio Feedback:
+    - Providing visual and audio feedback enhances player immersion and feedback, improving their understanding and enjoyment of the game. I plan to incorporate visual effects, animations, and sound cues to provide feedback on player actions, successes, and failures, enriching the overall gaming experience and reinforcing positive behaviors.
+  - Scalability and Modularity:
+    - Designing the game with scalability and modularity in mind enables future expansion and customization. I aim to structure the game's architecture in a modular and scalable manner, allowing for easy addition of new features, levels, or content post-launch. Additionally, I plan to leverage design patterns and architecture principles to ensure code maintainability, extensibility, and reusability.
+    - 
 ## Project Timeline:
-- Week 0 : Already ahead by working through the Three.js journey (TJJ) tutorial. Already done with the basics on onto the advanced course
-- Week 1 : Map out the goals that I want to achieve during the project and how I want my students to benefit from my knowledge by creating interactive lessons for them. Most intimidating week.
-- Week 2 : Work thru Chapter 2 of the TJJ course. This should conclude with an incresed knowledge of the lighting system, shadows, particles, and animated scroll ( this really excites me ). I will demonstrate knowledge in this by creating 1 to two modules for the game dev class.
-Goal: Module to introduce basic geometry and models
-- Week 3 : Continue TJJ. Advanced concepts. Implement concepts.
-Import 3d models ( already done)
-Raycasting interactions
-Physics
-Environment Mapping
-Realistic Rendering ( Unsure for a game dev module )
-Learning how to structure larger projects
-This would be a huge push into making interactive apps.
-Goal : Create a module that introduces game controls
-- Week 4 : Continue TJJ.
-Goal : Have a physics based lesson online to introduce rigid body concepts
-- Week 5 :
-Start TJJ Shaders chapter, longest chapter. Get though 1 /3 rd
-Rest Week for Class
-Goal: Introduce materials ( textures, maps, etc... )
-- Week 6 :
-Continue TJJ Shaders. Get though 1 /3 rd
-etc...
-- Week 11 : Demonstration
+- Week 0: Getting Started
+
+  - As a beginner game developer, Week 0 is all about getting started with the basics. I spent this week researching and exploring introductory resources on game development. I was looked into articles, videos, and beginner-friendly tutorials to understand the fundamentals of game design, programming languages, and game engines.
+
+- Week 1: Learning the Basics
+
+  - In Week 1, I focused on learning the foundational concepts of game development. I started by studying basic programming concepts like variables, loops, and conditionals. I also explored beginner tutorials for popular game engines such as Unity or Godot to understand how to create simple games from scratch.
+
+- Week 2: Exploring Game Engines
+
+  - Week 2 is dedicated to exploring different game engines and their features. I spent time experimenting with beginner tutorials and sample projects to familiarize myself with the workflow of each engine. By the end of the week, I hope to have a better understanding of which game engine suits my needs for my first game project.
+
+- Week 3: Prototyping My First Game Idea
+
+  - Now that I have a basic understanding of game development and have explored game engines, it's time to start prototyping my first game idea. I'll focus on creating a simple prototype of my game concept, experimenting with core gameplay mechanics and basic graphics.
+
+- Week 4: Refining the Prototype
+
+  - In Week 4, I'll refine and polish the prototype of my first game. I'll iterate on gameplay mechanics, tweak graphics and sound effects, and address any bugs or issues that arise during testing. This week is all about making my game more playable and enjoyable for potential players.
+
+- Week 5: Adding Depth and Complexity
+
+  - With the prototype of my game in good shape, I'll spend Week 5 adding depth and complexity to the gameplay. I'll explore intermediate-level tutorials and resources to implement additional features such as scoring systems, level progression, and more advanced gameplay mechanics.
+
+- Week 6: Testing and Gathering Feedback
+
+  - Week 6 is dedicated to testing my game and gathering feedback from friends, family, and fellow beginner developers. I'll conduct playtesting sessions to identify areas for improvement and gather insights on what aspects of the game resonate most with players. Using this feedback, I'll iterate on my game to make it more engaging and polished.
+
+- Week 7-10: Iterating and Polishing
+
+  - During Weeks 7-10, I'll continue iterating on my game based on the feedback received and my own observations. I'll focus on refining gameplay mechanics, optimizing performance, and adding final touches to graphics and sound. This period is crucial for ensuring that my game is as polished and enjoyable as possible before the final showcase.
+
+- Week 11: Final Showcase
+
+  - As I approach the end of my game development journey, Week 11 is all about preparing for the final showcase. I'll showcase my game to friends, family, and the game development community to celebrate my achievements and gather feedback for future projects. This week marks the culmination of my efforts and the beginning of new adventures in game development!
 
 ## Future Work:
 - Discuss potential new features or improvements for future versions.
 - What are features that you would like to implement, but are beyond the 3-
 month mark?
-- Address any originally planned features not implemented and reasons behind it.
+- As I look ahead to future iterations of the project, there are several potential new features and improvements I'd like to consider for future versions beyond the initial three-month mark:
+
+  - Expanded Gameplay Mechanics:
+    - Introducing more diverse and intricate gameplay mechanics can enhance player engagement and longevity. This could include adding new types of puzzles, challenges, or interactive elements to keep players invested and excited about the game.
+
+  - Multiplayer Functionality:
+    - Implementing multiplayer functionality would open up new possibilities for player interaction and social engagement. Whether it's cooperative gameplay, competitive modes, or asynchronous challenges, adding multiplayer support can significantly enhance the game's replay value and community aspect.
+
+  - Enhanced Visuals and Audio:
+    - Investing in higher-quality visuals and audio can elevate the overall gaming experience. This could involve upgrading graphics with advanced shaders and effects, integrating dynamic lighting systems, and adding immersive soundscapes and music tracks to enhance immersion and atmosphere.
