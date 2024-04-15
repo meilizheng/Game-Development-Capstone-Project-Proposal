@@ -133,7 +133,7 @@ Cross-Platform, etc.)
 
   - During Weeks 7-10, I'll continue iterating on my game based on the feedback received and my own observations. I'll focus on refining gameplay mechanics, optimizing performance, and adding final touches to graphics and sound. This period is crucial for ensuring that my game is as polished and enjoyable as possible before the final showcase.
 
-- ![Alt Text](flower.jpg) Week 11: Final Showcase
+- Week 11: Final Showcase
 
   - As I approach the end of my game development journey, Week 11 is all about preparing for the final showcase. I'll showcase my game to friends, family, and the game development community to celebrate my achievements and gather feedback for future projects. This week marks the culmination of my efforts and the beginning of new adventures in game development!
 
