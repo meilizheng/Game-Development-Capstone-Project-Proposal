@@ -1,7 +1,6 @@
 # Game Development / Capstone Project Proposal
 - **Name**: Meili Zheng
 - **Year and Qtr**: 6th quarter
-- **Additional Teammate (If working in team)**: 
 ## Introduction:
 - Provide context and motivations of the project.
   - Why did you decide to work on this project?
