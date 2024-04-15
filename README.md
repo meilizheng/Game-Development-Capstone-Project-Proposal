@@ -99,7 +99,7 @@ Cross-Platform, etc.)
     - Providing visual and audio feedback enhances player immersion and feedback, improving their understanding and enjoyment of the game. I plan to incorporate visual effects, animations, and sound cues to provide feedback on player actions, successes, and failures, enriching the overall gaming experience and reinforcing positive behaviors.
   - Scalability and Modularity:
     - Designing the game with scalability and modularity in mind enables future expansion and customization. I aim to structure the game's architecture in a modular and scalable manner, allowing for easy addition of new features, levels, or content post-launch. Additionally, I plan to leverage design patterns and architecture principles to ensure code maintainability, extensibility, and reusability.
-    - 
+      
 ## Project Timeline:
 - Week 0: Getting Started
 
@@ -133,7 +133,7 @@ Cross-Platform, etc.)
 
   - During Weeks 7-10, I'll continue iterating on my game based on the feedback received and my own observations. I'll focus on refining gameplay mechanics, optimizing performance, and adding final touches to graphics and sound. This period is crucial for ensuring that my game is as polished and enjoyable as possible before the final showcase.
 
-- Week 11: Final Showcase
+- ![Alt Text](flower.jpg) Week 11: Final Showcase
 
   - As I approach the end of my game development journey, Week 11 is all about preparing for the final showcase. I'll showcase my game to friends, family, and the game development community to celebrate my achievements and gather feedback for future projects. This week marks the culmination of my efforts and the beginning of new adventures in game development!
 
