@@ -70,7 +70,7 @@ React.js, renowned for its declarative and component-based architecture, serves 
 Redux complements React by providing a predictable state container for managing application data in a centralized manner. By adopting Redux, I establish a robust architecture for managing game state, handling user interactions, and orchestrating data flow throughout the application. Redux's immutable state management and middleware ecosystem ensure scalability, maintainability, and testability, enabling efficient development and debugging workflows.
 
 - Version Control
-  - In this project, I prioritize effective version control to manage changes, collaborate with team members, and maintain the integrity of the codebase. Leveraging the industry-standard platform GitHub, I ensure seamless integration of version control into the development workflow.
+  - In this project, I prioritize effective version control to manage changes, and maintain the integrity of the codebase. Leveraging the industry-standard platform GitHub, I ensure seamless integration of version control into the development workflow.
 
   - GitHub:
     - GitHub serves as the cornerstone of version control, providing a centralized repository for storing, sharing, and tracking project files. With its intuitive interface and robust features, GitHub facilitates collaboration and transparency among team members. Leveraging Git, GitHub enables me to create branches, commit changes, and merge code seamlessly, ensuring a streamlined and organized development process.
